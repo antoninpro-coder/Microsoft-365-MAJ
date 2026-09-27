@@ -5,4 +5,5 @@ Sur Windows 10 ou sur certaines version de Windows 11 il est possible d'avoir un
 Effectuer cette commande pour régler le problème :
 Set-ExecutionPolicy Unrestricted
 Puis mettre "O" puis "Entrée" pour accepter.
-Maintenant vous pouvez relancer le script Powershell sans erreur.
+Maintenant vous pouvez relancer le script Powershell sans erreur en écrivant :
+.\MicrosoftOffice365.ps1
