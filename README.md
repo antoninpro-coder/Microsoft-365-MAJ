@@ -4,5 +4,5 @@ Code à exécuter avec un Powershell en admin pour faire la mise a niveau et le 
 Sur Windows 10 ou sur certaines version de Windows 11 il est possible d'avoir une erreur au lencement du code.
 Effectuer cette commande pour régler le problème :
 Set-ExecutionPolicy Unrestricted
-Puis mettre "Oui".
-
+Puis mettre "O" puis "Entrée" pour accepter.
+Maintenant vous pouvez relancer le script Powershell sans erreur.
